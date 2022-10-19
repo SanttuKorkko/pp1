@@ -1,1 +1,0 @@
-# fruit[:] means that whole string is stored in the variable "fruit"
